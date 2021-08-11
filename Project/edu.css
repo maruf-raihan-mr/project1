@@ -1,0 +1,71 @@
+
+
+*{
+    margin:0px;
+    padding:0px;
+}
+.c{
+display: inline;
+margin-left: 990px;
+
+
+}
+
+
+h4{
+    color: #545454;
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+hr{
+    height: 3px;
+    background-color: black;
+}
+
+.b{
+    background-color:#FF0033;
+    height: 400px;
+
+}
+
+
+h5{
+    
+    font-size: 30px;
+    display: inline;
+    margin-left: 30%;
+    
+}
+h6{
+    display: inline;
+    font-size: 20px;
+    color:azure;
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    font-size: 18px;
+    display: inline;
+    text-align: center;
+}
+
+.pp{
+    font-family: fantasy;
+    color: black;
+   margin-left: 1000px;
+}
+
+a{
+    text-decoration: none;
+    margin-left: 48%;
+    color: black;
+    
+}
+.home{
+    background-color: darkgrey;
+    
+}
+
